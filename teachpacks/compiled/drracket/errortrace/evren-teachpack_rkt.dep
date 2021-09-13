@@ -1,0 +1,1 @@
+("8.2" ta6osx ("1c6c2942b88280645d5084ab009ff9e462c82dae" . "010c95df1af5fbbeb7d2b9af8cdf348e18f42adf") (collects #"2htdp" #"image.rkt") (collects #"2htdp" #"universe.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"test-engine" #"racket-tests.rkt"))
